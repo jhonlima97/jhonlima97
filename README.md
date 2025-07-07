@@ -4,13 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-Systems and computer engineer with two years of experience as a developer, specifically in technologies such as:
+Systems and computer engineer with 2 years of experience as a developer, knowledge in tools, technologies and frameworks necessary to convert data into information, person of solid ethical principles, creative and sociable with a high degree of responsibility, availability remotely or in person.
 
-Backend: Python and NodeJS
-Frontend: Angular, Vue3
-Databases: Postgres, MySQL, MongoDB
-
-I am currently working as a software process and database documenter for the Lambayeque Regional Government.
+I currently work as a software process and database documenter for the Regional Government of Lambayeque.
 
 * 🌍  I'm based in Lambayeque - Perú
 * 🖥️  See my portfolio at [Portafolio](http://https://github.com/jhonlima97)

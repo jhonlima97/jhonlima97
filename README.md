@@ -51,7 +51,7 @@ I currently work as a software process and database documenter for the Regional 
 </p>
 
 
-#### 💻🖥️ Code Editors
+#### 💻 Code Editors
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
 <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" alt="Sublime Text" title="Sublime Text"/></a>

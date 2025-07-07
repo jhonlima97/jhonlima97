@@ -42,7 +42,7 @@ I am currently working as a software process and database documenter for the Lam
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/M/microsoft-azure-logo-FA6C704F31-seeklogo.com.png" width="36" height="36" alt="Azure" title="Azure"/></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="36" height="36" alt="Azure" title="Azure"/></a>
 </p>
 
 #### 🗄️ Skills Databases

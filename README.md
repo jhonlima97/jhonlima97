@@ -61,7 +61,7 @@ I am currently working as a software process and database documenter for the Lam
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="36" height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/PyCharm_Icon.svg" width="36" height="36" alt="PyCharm" title="PyCharm"/></a>
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="36" height="36" alt="PyCharm" title="PyCharm"/></a>
 </p>
 
 

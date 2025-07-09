@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jhon Lima
 =================================================================================================================================
 
-Fullstack Developer
+I am a web developer
 -------------------
 
 Systems and computer engineer with 2 years of experience as a developer, knowledge in tools, technologies and frameworks necessary to convert data into information, person of solid ethical principles, creative and sociable with a high degree of responsibility, availability remotely or in person.

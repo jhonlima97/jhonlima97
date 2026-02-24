@@ -67,7 +67,8 @@ I currently work as a software process and database documenter for the Regional 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
 <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="36" height="36" alt="PyCharm" title="PyCharm"/></a>
 <a href="https://antigravity.google/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/user-attachments/assets/bf006e01-7fce-459c-8dd2-a72975450987" width="36" height="36" alt="Google Antigravity" title="Google Antigravity"/>
+<img src="https://raw.githubusercontent.com/user-attachments/assets/bf006e01-7fce-459c-8dd2-a72975450987"
+width="36" height="36" alt="Google Antigravity" title="Google Antigravity"/>
 </a>
 </p>
 

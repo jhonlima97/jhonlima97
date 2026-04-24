@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jhon Lima
 =================================================================================================================================
 
-I am a web developer
+I am a full stack developer
 -------------------
 
 Systems and computer engineer with 2 years of experience as a developer, knowledge in tools, technologies and frameworks necessary to convert data into information, person of solid ethical principles, creative and sociable with a high degree of responsibility, availability remotely or in person.
@@ -24,7 +24,10 @@ I currently work as a software process and database documenter for the Regional 
     <td><a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue"/></a></td>
     <td><a href="https://angular.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular"/></a></td>
   </tr>
-</table>
+</table>  
+
+#### 🔙👨‍💻 Skills Backend
+
 
 #### ⚙️ Skills DevOps
 <table>

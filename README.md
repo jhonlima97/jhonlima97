@@ -27,19 +27,27 @@ I currently work as a software process and database documenter for the Regional 
 </table>
 
 #### ⚙️ Skills DevOps
-<p align="left">
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a><a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="GitLab" title="GitLab"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="36" height="36" alt="Azure" title="Azure"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" title="AWS"/></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux"/></a></td>
+    <td><a href="https://gitlab.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="GitLab"/></a></td>
+    <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/></a></td>
+    <td><a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase"/></a></td>
+    <td><a href="https://azure.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="36" height="36" alt="Azure"/></a></td>
+    <td><a href="https://cloud.google.com/"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" width="36" height="36" alt="GCP"/></a></td>
+    <td><a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS"/></a></td>
+  </tr>
+</table>
 
 #### 🗄️ Skills Databases
-<p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" title="SQL Server"/></a>
-</p>
-
-#### 💻 Code Editors
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="36" height="36" alt="Sublime Text" title="Sublime Text"/></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" title="Vim"/></a><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="36" height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="36" height="36" alt="PyCharm" title="PyCharm"/></a><a href="https://antigravity.google/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/41c6c884-027c-48d7-a540-be1f0b1c3268?raw=true" width="36" height="36" alt="Google Antigravity" title="Google Antigravity"/></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="Postgres"/></a></td>
+    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a></td>
+    <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="Mongo"/></a></td>
+    <td><a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQLServer"/></a></td>
+  </tr>
+</table>
 
 ### 📲 Socials
 

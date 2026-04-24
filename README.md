@@ -56,7 +56,7 @@ I currently work as a software process and database documenter for the Regional 
     <td><a href="https://www.github.com/jhonlima97" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" /></a></td>
     <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="Mongo"/></a></td>
     <td><a href="https://www.linkedin.com/in/ingjhonlima20" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a></td>
-    <td><a href="https://jsmithfsdeveloper.blogspot.com/" target="_blank" rel="noreferrer"> <img src="https://raw.blogger.com/danielcranney/readme-generator/main/public/icons/socials/blogger.svg" width="32" height="32" alt="Blogger" /></a></td>
+    <td><a href="https://jsmithfsdeveloper.blogspot.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blogger/blogger-tile.svg" width="32" height="32" alt="Blogger" /></a></td>
   </tr>
 </table>
 

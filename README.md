@@ -62,7 +62,7 @@ I currently work as a software process and database documenter for the Regional 
     <td><a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase"/></a></td>
     <td><a href="https://azure.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="36" height="36" alt="Azure"/></a></td>
     <td><a href="https://cloud.google.com/"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" width="36" height="36" alt="GCP"/></a></td>
-    <td><a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS"/></a></td>
+    <td><a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="36" height="36" alt="AWS"/></a></td>
   </tr>
 </table>
 

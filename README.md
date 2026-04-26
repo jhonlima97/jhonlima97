@@ -1,8 +1,10 @@
+#### 👩‍💻  About Me
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jhon Lima
 =================================================================================================================================
 
 I am a full stack developer
--------------------
+---------------------------
 
 Systems and computer engineer with 2 years of experience as a developer, knowledge in tools, technologies and frameworks necessary to convert data into information, person of solid ethical principles, creative and sociable with a high degree of responsibility, availability remotely or in person.
 
@@ -28,8 +30,6 @@ I currently work as a software process and database documenter for the Regional 
 
 #### 🔙👨‍💻 Skills Backend
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
@@ -49,9 +49,6 @@ I currently work as a software process and database documenter for the Regional 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
 
 #### ⚙️ Skills DevOps
 <table>
